@@ -7,7 +7,6 @@
 #### Setup
 
 1. Start a new Google Sheet
-2. Enable Google Analytic connection under Add-ons
 3. Go to tools > script editor and start a new script project
 4. In the project, create the files similar to the setup in this repo. Paste the code over.
 5. Add your Clubhouse API key to the `getClubhouseData.gs`
